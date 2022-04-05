@@ -7,9 +7,9 @@ GOAL
 4. 서로 간의 코드 리뷰를 통해 다양한 관점을 기르고 수용하기
 
 <Week Plan>
-  1st. 완전탐색(Brute Force), 이분탐색(Binary Search)
-  2nd. 버블정렬, 퀵정렬
-  3rd. 병합정렬, 힙정렬
-  4th. Greedy algorithm
-  5th. Dinamic Programming
-  6th. 알고리즘 별 장단점 비교
+1. 완전탐색(Brute Force), 이분탐색(Binary Search)
+2. 버블정렬, 퀵정렬
+3. 병합정렬, 힙정렬
+4. Greedy algorithm
+5. Dinamic Programming
+6. 알고리즘 별 장단점 비교
