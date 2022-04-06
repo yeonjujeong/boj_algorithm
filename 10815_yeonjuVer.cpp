@@ -14,6 +14,7 @@ int binary(int target, int start, int end){
 }
 
 int main(){
+	//시간 초과가 나서 아래의 세 명령어를 넣어주니 해결됨 
 	cin.tie(NULL);
 	ios_base::sync_with_stdio(false);
 	cout.tie(NULL);
