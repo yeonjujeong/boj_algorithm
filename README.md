@@ -12,4 +12,4 @@ Week Plan
 3. 병합정렬, 힙정렬
 4. Greedy algorithm
 5. Dinamic Programming
-6. 알고리즘 별 장단점 비교
+6. 깊이우선탐색(DFS), 넓이우선탐색(BFS)
